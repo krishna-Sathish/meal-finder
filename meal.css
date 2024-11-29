@@ -376,12 +376,12 @@ hr{
        height: 200px; 
     }
     .searchbar{
-        margin-left: 100px;
+        margin-left: 50px;
         margin-top: 50px; 
     }
     .search{
         padding: 7px;
-        width: 200px;
+        width: 250px;
     } 
     .fa-magnifying-glass {
         padding: 7px;
@@ -391,13 +391,13 @@ hr{
     
     .heading {
         font-size: 18px;
-        margin-left: -200px;
+        margin-left: -240px;
         
     }
     
     .fav1 {
         font-size: 15px;
-        margin-left: -180px;
+        margin-left: -220px;
     }
     #meal-info img {
         width: 200px;
